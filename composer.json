@@ -51,10 +51,10 @@
   "extra": {
         "laravel": {
             "providers": [
-                "Macellan\\Excel\\ExcelServiceProvider"
+                "Macellan\\Excel\\OLDExcelServiceProvider"
             ],
             "aliases": {
-                "XLS": "Macellan\\Excel\\Facades\\Excel"
+                "XLS": "Macellan\\Excel\\Facades\\OLDExcel"
             }
         }
     }

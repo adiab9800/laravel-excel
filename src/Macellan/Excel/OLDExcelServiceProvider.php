@@ -24,7 +24,7 @@ use Laravel\Lumen\Application as LumenApplication;
  * @author     Maatwebsite <info@maatwebsite.nl>
  * @license    http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt    LGPL
  */
-class ExcelServiceProvider extends ServiceProvider {
+class OLDExcelServiceProvider extends ServiceProvider {
 
     /**
      * Indicates if loading of the provider is deferred.
