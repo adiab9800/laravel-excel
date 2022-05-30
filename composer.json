@@ -1,5 +1,5 @@
 {
-  "name": "macellan/laravel-excel",
+  "name": "adiab9800/laravel-excel",
   "description": "Supercharged Excel exports in Laravel",
   "license": "MIT",
   "keywords": [
@@ -13,12 +13,8 @@
   ],
   "authors": [
     {
-      "name": "Maatwebsite.nl",
-      "email": "patrick@maatwebsite.nl"
-    },
-    {
-      "name": "Fatih Aytekin",
-      "email": "fatih@aytekin.me"
+      "name": "Ahmed Diab",
+      "email": "adiab9800@gmail.com"
     }
   ],
   "require": {
